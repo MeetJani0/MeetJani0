@@ -15,6 +15,8 @@ I focus on building **grounded AI systems**, where language models don’t hallu
 
 My work spans **Retrieval-Augmented Generation (RAG), Large Language Models, deep learning**, and biomedical signal & image translation — from research notebooks to deployed applications.
 
+🔗 **Portfolio:** https://meetjani.online
+
 ---
 
 ## 🧪 How I Think About AI Systems
@@ -37,7 +39,7 @@ Evaluation → Deployment
 
 ```
 
-This philosophy shows up in every project below.
+This philosophy also shapes the services and systems I showcase on my portfolio.
 
 ---
 
@@ -54,7 +56,7 @@ An end-to-end **Retrieval-Augmented Generation system** built over all seven Har
 
 🔗 Repo: https://github.com/MeetJani0/harry-potter-rag
 
-> This project taught me that most LLM problems are retrieval problems wearing a language mask.
+> Most LLM failures are retrieval failures wearing a language mask.
 
 ---
 
@@ -97,8 +99,6 @@ Answer + Supporting Evidence
 > Retrieval narrows the truth space.  
 > The LLM reasons *inside* it.
 
-This modular design allows retrieval, filtering, and generation to evolve independently.
-
 ---
 
 ## 🧠 Research Work
@@ -125,41 +125,48 @@ This modular design allows retrieval, filtering, and generation to evolve indepe
 
 ## 🔭 Currently Exploring
 
-I’m actively experimenting with next-generation AI system designs:
-
 **🕸 Graph RAG**
-- Knowledge graphs combined with vector retrieval  
-- Entity-centric retrieval instead of chunk-centric search  
-- Better multi-hop reasoning and long-context faithfulness  
+- Knowledge graphs + vector retrieval  
+- Entity-centric retrieval for multi-hop reasoning  
 
 **🤖 Agentic Systems**
 - Tool-using LLM agents  
-- Planner–Executor and ReAct-style architectures  
-- Retrieval-aware agents that decide *when* to search, not just *how*
+- Planner–Executor & ReAct-style architectures  
 
 **🧪 Evaluation Beyond Accuracy**
 - Faithfulness & grounding checks  
 - Retrieval recall vs answer correctness  
-- Failure-mode analysis for hallucinations  
-
-This reflects what I’m learning *now*, not just what I’ve already completed.
 
 ---
 
 ## 🛠 My Toolbelt (Used, Not Just Known)
 
-**AI / ML**
-- RAG · LLMs · NLP  
-- CNNs · RNNs · LSTMs · GANs · DNNs  
+### AI / ML
 
-**Engineering**
-- Python · TensorFlow · Keras · Scikit-learn  
-- FAISS · Streamlit · Gradio  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://skillicons.dev/icons?i=keras" />
+  <img src="https://skillicons.dev/icons?i=sklearn" />
+</p>
 
-**Mindset**
-- Evaluation > Accuracy  
-- Retrieval > Guessing  
-- Systems > Models  
+<p align="center">
+  RAG · LLMs · NLP  
+  CNNs · RNNs · LSTMs · GANs · DNNs
+</p>
+
+### Engineering
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
+
+<p align="center">
+  FAISS · Streamlit · Gradio
+</p>
 
 ---
 
@@ -194,4 +201,3 @@ AI taught me how easily models forget them.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
----
