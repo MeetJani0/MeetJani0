@@ -1,6 +1,3 @@
----
-
-```markdown
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3200&color=6AD3FF&center=true&vCenter=true&width=780&lines=From+Physics+to+AI;Designing+Grounded+Intelligence;RAG+%7C+LLMs+%7C+Deep+Learning;Research+Intern+%40+IIT+Mandi" />
 </p>
@@ -197,6 +194,4 @@ AI taught me how easily models forget them.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
-```
-
 ---
