@@ -1,5 +1,7 @@
 🧠 Meet Jani
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=36BCF7&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Engineer;RAG+%7C+LLMs+%7C+Deep+Learning;Physicist+turned+Machine+Learning+Researcher;Building+grounded%2C+intelligent+AI+systems" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+RAG+%26+LLMs;Research+Intern+%40+IIT+Mandi;Building+grounded+AI+systems" />
+</p>
 🚀 About Me
 
 I’m an AI & Data Science professional with a physics backbone and a strong bias toward grounded intelligence — systems that retrieve before they reason.
