@@ -181,13 +181,10 @@ AI taught me how easily models forget them.
 
 ---
 
-## 📊 GitHub Snapshot
+## 📊 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=MeetJani0&show_icons=true&count_private=true&hide_border=true"
-    alt="GitHub Stats"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MeetJani0&hide_border=true&bg_color=00000000&line=6AD3FF&point=FFFFFF" />
 </p>
 
 ---
