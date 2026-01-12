@@ -8,6 +8,8 @@
 
 ---
 
+.
+
 ## 🧭 The Short Version
 
 I’m **Meet Jani** — an AI & Data Science engineer with a physics background.  
