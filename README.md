@@ -146,7 +146,6 @@ Answer + Supporting Evidence
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=tensorflow" />
-  <img src="https://skillicons.dev/icons?i=keras" />
   <img src="https://skillicons.dev/icons?i=sklearn" />
 </p>
 
